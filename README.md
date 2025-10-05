@@ -20,7 +20,7 @@ The ANN is structured with three layers: an **input layer**, a **hidden layer**,
 The **ReLU (Rectified Linear Unit)** function is used as the activation function at each layer. This simplifies computations by converting any negative value to zero, which is highly efficient for hardware implementation.
 
 <p align="center">
-  <img src="img/structure_neural_network.jpg" alt="Network Diagram" width="700"/>
+  <img src="img/structure of neural network.jpg" alt="Network Diagram" width="700"/>
   <br>
   <em>Figure: Block Diagram of the Neural Network Structure</em>
 </p>
@@ -60,7 +60,7 @@ This section showcases the post-synthesis results from the Quartus II software.
 The Register-Transfer Level (RTL) schematic below illustrates the hardware structure synthesized from the Verilog code, showing the interconnection of registers, adders, and multipliers.
 
 <p align="center">
-  <img src="img/rtl_view.png" alt="RTL Viewer" width="800"/>
+  <img src="img/RTL_ann.png" alt="RTL Viewer" width="800"/>
 </p>
 
 ### FPGA Resource Utilization
