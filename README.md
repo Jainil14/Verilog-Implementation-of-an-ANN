@@ -20,7 +20,7 @@ The ANN is structured with three layers: an **input layer**, a **hidden layer**,
 The **ReLU (Rectified Linear Unit)** function is used as the activation function at each layer. This simplifies computations by converting any negative value to zero, which is highly efficient for hardware implementation.
 
 <p align="center">
-  <img src="img/network_diagram.png" alt="Network Diagram" width="700"/>
+  <img src="img/structure_neural_network.jpg" alt="Network Diagram" width="700"/>
   <br>
   <em>Figure: Block Diagram of the Neural Network Structure</em>
 </p>
