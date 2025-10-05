@@ -67,5 +67,5 @@ The Register-Transfer Level (RTL) schematic below illustrates the hardware struc
 The following is a summary of the logic elements and registers used on the Cyclone II FPGA. This design is lightweight, demonstrating the efficiency of implementing simple neural networks on hardware.
 
 <p align="center">
-  <img src="img/utilization_report.png" alt="FPGA Resource Utilization" width="600"/>
+  <img src="img/Screenshot (108).png" alt="FPGA Resource Utilization" width="600"/>
 </p>
